@@ -2,7 +2,7 @@
 Projeto para demonstrar exemplos básicos de testes de carga com k6
 
 ### O que este projeto faz?
-Este projeto demonstra exemplos básicos de requisições utilizando k6
+Este projeto demonstra exemplos básicos de testes de carga utilizando k6
 
 ### Instalação
 
